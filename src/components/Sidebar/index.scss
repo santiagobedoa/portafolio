@@ -10,15 +10,18 @@
 	.logo {
 		display: block;
 		padding: 8px 0;
+		text-decoration: none;
 
-		img {
+		img, span {
 			display: block;
 			margin: 8px auto;
 			width: 24px;
 			height: auto;
 
 			&.sub-logo {
-				width: 50px;
+				width: 41px;
+				font-family: 'Coolvetica';
+				color: #fff;
 			}
 		}
 	}
