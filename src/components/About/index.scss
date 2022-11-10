@@ -78,3 +78,25 @@
 		transform: rotateX(90deg);
 	}
 }
+
+.button-cv {
+	color: #ffd700;
+	font-size: 13px;
+	letter-spacing: 3px;
+	font-weight: 500;
+	font-family: sans-serif;
+	text-decoration: none;
+	padding: 10px 18px;
+	border: 1px solid #ffd700;
+	border-radius: 4px;
+	background: 0 0;
+	text-transform: uppercase;
+	float: right;
+	text-align: center;
+	cursor: pointer;
+
+	&:hover {
+		background: #ffd700;
+		color: #333;
+	}
+}

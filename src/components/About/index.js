@@ -37,6 +37,12 @@ const About = () => {
 					<p>
 						I have been trained in different programming languages such as C, Python, and Javascript, gaining excellent problem-solving skills. Besides, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, and strategy, and a specialization in innovation.
 					</p>
+					<a
+						href='https://drive.google.com/file/d/1nGv2EiHdH6kn3lj1LwsFf_H6IYY-KnDp/view?usp=share_link'
+						class='button-cv'
+						target='_blank'
+						rel='noreferrer noopener'
+					>Go to Resume</a>
 				</div>
 				<div className='stage-cube-cont'>
 					<div className='cubespinner'>
