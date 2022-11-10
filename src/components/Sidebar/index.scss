@@ -75,20 +75,20 @@
 
 			&:first-child {
 				&::after {
-					content: 'home';
+					content: 'HOME';
 				}
 			}
 		}
 
 		a.about-link {
 			&:after {
-				content: 'about';
+				content: 'ABOUT';
 			}
 		}
 		
 		a.contact-link {
 			&:after {
-				content: 'contact';
+				content: 'CONTACT';
 			}
 		}
 
