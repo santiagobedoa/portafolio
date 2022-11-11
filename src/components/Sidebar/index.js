@@ -7,18 +7,18 @@ import { faLinkedin, faGithub, faMedium } from '@fortawesome/free-brands-svg-ico
 
 const Sidebar = () => (
 	<div className='nav-bar'>
-		<Link className='logo' to='/portafolio'>
+		<Link className='logo' to='/'>
 			<img src={LogoS} alt='logo' />
 			<span className='sub-logo'>Santiago</span>
 		</Link>
 		<nav>
-			<NavLink exact='true' activeclassname='active' to='/portafolio'>
+			<NavLink exact='true' activeclassname='active' to='/'>
 				<FontAwesomeIcon icon={faHome} color='#4d4d4e' />
 			</NavLink>
-			<NavLink className='about-link' exact='true' activeclassname='active' to='/portafolio/about'>
+			<NavLink className='about-link' exact='true' activeclassname='active' to='/about'>
 				<FontAwesomeIcon icon={faUser} color='#4d4d4e' />
 			</NavLink>
-			<NavLink className='contact-link' exact='true' activeclassname='active' to='/portafolio/contact'>
+			<NavLink className='contact-link' exact='true' activeclassname='active' to='/contact'>
 				<FontAwesomeIcon icon={faEnvelope} color='#4d4d4e' />
 			</NavLink>
 		</nav>

@@ -92,12 +92,11 @@
 			}
 		}
 
-		// se repite el amarillo del home aunque se este en otro lugar
-		// a.active {
-		// 	svg {
-		// 		color: #ffd700;
-		// 	}
-		// }
+		a.active {
+			svg {
+				color: #ffd700;
+			}
+		}
 	}
 
 	ul {
