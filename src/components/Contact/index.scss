@@ -86,7 +86,6 @@
   top: 50px;
   right: 30%;
   z-index: 999999;
-  width: 267px;
   padding: 20px;
   color: #fff;
   font-family: 'Helvetica';
@@ -95,6 +94,7 @@
   opacity: 0;
   animation: fadeIn 1s 1.5s;
   animation-fill-mode: forwards;
+  border-radius: 4px;
 
   span {
     font-size: 16px;
@@ -109,6 +109,7 @@
 	float: right;
 	width: 53%;
 	height: 100%;
+  border-radius: 4px;
 }
 
 .leaflet-container {
@@ -118,4 +119,5 @@
 	opacity: 0;
 	animation: backInRight 1s 1.2s;
 	animation-fill-mode: forwards;
+  border-radius: 4px;
 }

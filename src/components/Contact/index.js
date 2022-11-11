@@ -49,7 +49,7 @@ const Contact = () => {
 						/>
 					</h1>
 					<p>
-						I am interested to work on a cool start-up - especially ambitious large projects. However, if you have other requests or questions, don't hesitate to contact me using the below form either.
+						I'm interested to work on a cool start-up, especially ambitious large projects. However, if you have other requests or questions, don't hesitate to contact me using the below form either.
 					</p>
 					<div className='contact-form'>
 						<form ref={form} onSubmit={sendEmail}>
@@ -74,14 +74,13 @@ const Contact = () => {
 					</div>
 				</div>
 				<div className="info-map">
-					Santiago Bedoya,
+					Santiago Bedoya.
 					<br />
-					Medellin, 
+					Medellin, Antioquia,
 					<br />
-					Antioquia, <br />
 					Colombia. <br />
 					<br />
-					<span>santiagobeoda@gmail.com</span>
+					<span>santiagobedoa@gmail.com</span>
 				</div>
 				<div className="map-wrap">
 					<MapContainer center={[6.130931, -75.418538]} zoom={13}>
