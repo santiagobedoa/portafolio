@@ -42,7 +42,7 @@ const Home = () => {
 						/>
 					</h1>
 					<h2>Backend Dev / Python / JavaScript / C</h2>
-					<Link to='/contact' className='flat-buttom'>CONTACT ME</Link>
+					<Link to='/portafolio/contact' className='flat-buttom'>CONTACT ME</Link>
 				</div>
 				<Logo />
 			</div>
