@@ -124,3 +124,19 @@ h2 {
 		}
 	}
 }
+
+@media screen and (max-width: 1000px) {
+	.home-page {
+  	h1 {
+			font-size: 40px;
+
+			img {
+				width: 25px;
+			}
+  	}
+	}
+
+	h2 {
+		font-size: 12px;
+	}
+}

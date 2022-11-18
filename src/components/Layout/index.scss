@@ -129,6 +129,7 @@
 		position: initial;
 		height: auto;
 		min-height: auto;
+		overflow: visible;
 
 		&.about-page,
 		&.contact-page {
@@ -141,7 +142,7 @@
 				padding: 20px;
 				box-sizing: border-box;
 				p {
-					font-size: 12px;
+					font-size: 15px;
 				}
 			}
 		}
