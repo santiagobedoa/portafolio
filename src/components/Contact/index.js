@@ -49,7 +49,7 @@ const Contact = () => {
 						/>
 					</h1>
 					<p>
-						I'm interested to work on a cool start-up, especially ambitious large projects. However, if you have other requests or questions, don't hesitate to contact me using the below form either.
+						I'm interested to work for a cool start-up, especially ambitious large projects. However, if you have other requests or questions, don't hesitate to contact me using the below form.
 					</p>
 					<div className='contact-form'>
 						<form ref={form} onSubmit={sendEmail}>

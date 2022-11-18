@@ -29,13 +29,10 @@ const About = () => {
 						/>
 					</h1>
 					<p>
-						I'm a very ambitious back-end developer (with knowledge in front-end as you can see with this website) looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.
+						I'm a very ambitious back-end developer looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging projects. I'm quietly confident, naturally curious, and continually improving my chops to always offer the best of me.
 					</p>
 					<p>
-						I'm quietly confident, naturally curious, and continually improving my chops to always offer the best of me.
-					</p>
-					<p>
-						I have been trained in different programming languages such as C, Python, and Javascript, gaining excellent problem-solving skills. Besides, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, strategy, and I did a specialization in innovation.
+						I have been trained in different programming languages such as C, Python, and Javascript, gaining excellent problem-solving skills. Also, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, and strategy. This means that I not only understand the business value of a process but also the workflow and coding relate to it. I have the ability to sit with a customer, understand their desires, target the problem, and participate in the coding process behind it.
 					</p>
 					<a
 						href='https://drive.google.com/file/d/1nGv2EiHdH6kn3lj1LwsFf_H6IYY-KnDp/view?usp=share_link'
