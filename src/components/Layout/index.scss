@@ -144,3 +144,14 @@
 		}
 	}
 }
+
+@media (min-width: 1001px) and (max-width: 1200px) {
+	.about-page,
+	.contact-page {
+		.text-zone {
+			p {
+				font-size: 15px;
+			}
+		}
+	}
+}
