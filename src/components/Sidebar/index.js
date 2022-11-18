@@ -2,7 +2,7 @@ import './index.scss';
 import { Link, NavLink } from 'react-router-dom'
 import LogoS from '../../assets/images/logo-s.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHome, faUser, faEnvelope, faBars, faClose } from '@fortawesome/free-solid-svg-icons'
+import { faHome, faUser, faEnvelope, faBars, faClose, faFile } from '@fortawesome/free-solid-svg-icons'
 import { faLinkedin, faGithub, faMedium } from '@fortawesome/free-brands-svg-icons'
 import { useState } from 'react';
 
@@ -52,6 +52,15 @@ const Sidebar = () => {
 				/>
 			</nav>
 			<ul>
+				<li>
+					<a
+						target='_blank'
+						rel='noreferrer'
+						href='https://drive.google.com/file/d/1nGv2EiHdH6kn3lj1LwsFf_H6IYY-KnDp/view?usp=share_link'
+					>
+						<FontAwesomeIcon icon={faFile} color='#4d4d4e' fontSize='1.5em' />
+					</a>
+				</li>
 				<li>
 					<a 
 						target='_blank' 
