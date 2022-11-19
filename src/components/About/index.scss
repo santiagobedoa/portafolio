@@ -103,9 +103,8 @@
 
 @media screen and (max-width: 1000px) {
 	.stage-cube-cont {
-		position: initial;
+		position: relative;
 		width: 100%;
-		height: 0%;
-		overflow: visible;
+		height: 445px;
 	}
 }
