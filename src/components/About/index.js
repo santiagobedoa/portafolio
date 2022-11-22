@@ -39,7 +39,7 @@ const About = () => {
 						class='button-cv'
 						target='_blank'
 						rel='noreferrer noopener'
-					>Go to Resume</a>
+					>Go to CV</a>
 				</div>
 				<div className='stage-cube-cont'>
 					<div className='cubespinner'>
