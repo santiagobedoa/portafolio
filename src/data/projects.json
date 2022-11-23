@@ -1,0 +1,28 @@
+{
+	"projects": [
+		{
+			"name": "shell",
+			"title": "Shell",
+			"description": "Coding your own Shell in C",
+			"url": "https://github.com/santiagobedoa/shell"
+		},
+		{
+			"name": "blog",
+			"title": "Blog",
+			"description": "A different use of programing",
+			"url": "https://github.com/santiagobedoa/blog"
+		},
+		{
+			"name": "portafolio",
+			"title": "Portfolio",
+			"description": "You are on my portfolio :)",
+			"url": "https://github.com/santiagobedoa/portafolio"
+		},
+		{
+			"name": "airbnb",
+			"title": "Airbnb Clone",
+			"description": "A serios Airbnb Clone",
+			"url": "https://github.com/santiagobedoa/holbertonschool-AirBnB_clone_v3"
+		}
+	]
+}
