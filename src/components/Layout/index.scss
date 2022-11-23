@@ -132,7 +132,8 @@
 		min-height: auto;
 
 		&.about-page,
-		&.contact-page {
+		&.contact-page,
+		&.projects-page {
 
 			.text-zone {
 				position: initial;
@@ -151,7 +152,8 @@
 
 @media (min-width: 1001px) and (max-width: 1200px) {
 	.about-page,
-	.contact-page {
+	.contact-page,
+	.projects-page {
 		.text-zone {
 			p {
 				font-size: 15px;

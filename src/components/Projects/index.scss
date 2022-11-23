@@ -1,18 +1,11 @@
 .projects-page {
 	overflow: auto;
 	margin-top: 25px;
-// 	padding-left: 100px;
-// 	padding-right: 50px;
-// 	width: calc(100% - 150px);
-// 	position: initial;
-// 	height: 100%;
-// 	overflow: auto;
 
 	h1.page-title {
 		margin-top: 25px;
-// 		margin-left: 100px !important;
-// 		margin-top: 100px !important;
 	}
+
 	.images-container {
 		display: flex;
 		gap: 15px;
@@ -45,7 +38,7 @@
 			transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 			background: linear-gradient(
 				180deg,
-				rgba(0, 0, 0, 0.2) 0,
+				rgba(0, 0, 0, 0.6) 0,
 				rgba(0, 0, 0, 1)
 			);
 			bottom: -70px;
@@ -113,6 +106,28 @@
 		&:hover .image-content {
 			bottom: 0;
 			background: transparent;
+		}
+	}
+}
+
+@media screen and (max-width: 1000px) {
+	.container.projects-page {
+
+		.images-container {
+			overflow: auto;
+			display: flex;
+			flex-wrap: wrap;
+			width: auto;
+		}
+
+		h1.page-title {
+			margin-left: 20px;
+			margin-top: 20px;
+		}
+
+		.image-box {
+			height: 200px;
+			max-width: calc(50% - 10px);
 		}
 	}
 }
