@@ -69,7 +69,7 @@
 			border: 2px solid #ffd700;
 			border-radius: 4px;
 			font-size: 14px;
-			color: #fff;
+			color: #ffd700;
 			background: transparent;
 			text-transform: uppercase;
 			font-weight: 700;
@@ -80,11 +80,12 @@
 		.image-button:hover {
 			transform: translateY(-3px);
 			background: #ffd700;
+			color: #022c43;
 		}
 
 		&:after {
 			content: '';
-			background: linear-gradient(180deg, #ffd700, #000);
+			background: linear-gradient(0deg, #022c43, #000);
 			position: absolute;
 			left: 0;
 			right: 0;
