@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.d1f1c77b.css",
+    "main.css": "/portafolio/static/css/main.8a07c1be.css",
     "main.js": "/portafolio/static/js/main.90445bee.js",
     "static/js/787.ae0d8d37.chunk.js": "/portafolio/static/js/787.ae0d8d37.chunk.js",
     "static/media/blog.png": "/portafolio/static/media/blog.fc1fd820cdb6e1322ed5.png",
@@ -12,12 +12,12 @@
     "static/media/logo-s.png": "/portafolio/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/CoolveticaRg-Regular.woff2": "/portafolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portafolio/index.html",
-    "main.d1f1c77b.css.map": "/portafolio/static/css/main.d1f1c77b.css.map",
+    "main.8a07c1be.css.map": "/portafolio/static/css/main.8a07c1be.css.map",
     "main.90445bee.js.map": "/portafolio/static/js/main.90445bee.js.map",
     "787.ae0d8d37.chunk.js.map": "/portafolio/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1f1c77b.css",
+    "static/css/main.8a07c1be.css",
     "static/js/main.90445bee.js"
   ]
 }
