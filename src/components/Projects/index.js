@@ -7,12 +7,14 @@ import shell from '../../projects/shell/shell.png';
 import blog from '../../projects/blog/blog.png';
 import portafolio from '../../projects/portafolio/portafolio.png';
 import airbnb from '../../projects/airbnb/airbnb.png';
+import techium from '../../projects/techium/techium.png';
 
 const hash_map = {
 	'shell' : shell,
 	'blog' : blog,
 	'portafolio' : portafolio,
-	'airbnb' : airbnb
+	'airbnb' : airbnb,
+  'techium' : techium
 }
 
 const Projects = () => {
