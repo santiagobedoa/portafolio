@@ -9,6 +9,7 @@ import portafolio from '../../projects/portafolio/portafolio.png';
 import airbnb from '../../projects/airbnb/airbnb.png';
 import techium from '../../projects/techium/techium.png';
 import headphones from '../../projects/headphones/headphones.png';
+import smile from '../../projects/smile/smileschool.png';
 
 const hash_map = {
 	'shell' : shell,
@@ -17,6 +18,7 @@ const hash_map = {
 	'airbnb' : airbnb,
   'techium' : techium,
   'headphones' : headphones,
+  'smile' : smile,
 }
 
 const Projects = () => {

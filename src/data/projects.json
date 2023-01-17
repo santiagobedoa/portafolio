@@ -35,6 +35,12 @@
       "title": "Headphones Webpage",
       "description": "Responsive headphones company homepage",
       "url": "https://github.com/santiagobedoa/holbertonschool-headphones"
+    },
+    {
+      "name": "smile",
+      "title": "Smileschool Webpage",
+      "description": "Responsive Smileschool webpage",
+      "url": "https://github.com/santiagobedoa/holbertonschool-smiling-school"
     }
 	]
 }
