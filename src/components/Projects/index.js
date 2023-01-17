@@ -8,13 +8,15 @@ import blog from '../../projects/blog/blog.png';
 import portafolio from '../../projects/portafolio/portafolio.png';
 import airbnb from '../../projects/airbnb/airbnb.png';
 import techium from '../../projects/techium/techium.png';
+import headphones from '../../projects/headphones/headphones.png';
 
 const hash_map = {
 	'shell' : shell,
 	'blog' : blog,
 	'portafolio' : portafolio,
 	'airbnb' : airbnb,
-  'techium' : techium
+  'techium' : techium,
+  'headphones' : headphones,
 }
 
 const Projects = () => {

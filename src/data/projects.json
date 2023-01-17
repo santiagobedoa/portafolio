@@ -29,6 +29,12 @@
       "title": "Techium Webpage",
       "description": "Responsive homepage",
       "url": "https://github.com/santiagobedoa/techium"
+    },
+    {
+      "name": "headphones",
+      "title": "Headphones Webpage",
+      "description": "Responsive headphones company homepage",
+      "url": "https://github.com/santiagobedoa/holbertonschool-headphones"
     }
 	]
 }
