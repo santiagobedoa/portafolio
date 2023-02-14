@@ -10,9 +10,11 @@ import airbnb from '../../projects/airbnb/airbnb.png';
 import techium from '../../projects/techium/techium.png';
 import headphones from '../../projects/headphones/headphones.png';
 import smile from '../../projects/smile/smileschool.png';
+import home from '../../projects/lamaBlog/home.png';
 
 const hash_map = {
 	'shell' : shell,
+  'lamaBlog' : home,
 	'blog' : blog,
 	'portafolio' : portafolio,
 	'airbnb' : airbnb,

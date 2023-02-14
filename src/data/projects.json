@@ -7,10 +7,10 @@
 			"url": "https://github.com/santiagobedoa/shell"
 		},
 		{
-			"name": "blog",
-			"title": "Blog",
-			"description": "A different use of programing",
-			"url": "https://github.com/santiagobedoa/blog"
+			"name": "lamaBlog",
+			"title": "Blog Post App",
+			"description": "Completely functional Blog Post App",
+			"url": "https://github.com/santiagobedoa/blog_post_app"
 		},
 		{
 			"name": "portafolio",
@@ -39,8 +39,14 @@
     {
       "name": "smile",
       "title": "Smileschool Webpage",
-      "description": "Responsive Smileschool webpage",
-      "url": "https://github.com/santiagobedoa/holbertonschool-smiling-school"
-    }
+      "description": "Responsive webpage",
+      "url": "https://github.com/santiagobedoa/holbertonschool-smiling-school-javascript"
+    },
+		{
+			"name": "blog",
+			"title": "Blog",
+			"description": "A different use of programing",
+			"url": "https://github.com/santiagobedoa/blog"
+		}
 	]
 }

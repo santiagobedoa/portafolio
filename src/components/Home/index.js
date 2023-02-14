@@ -41,7 +41,7 @@ const Home = () => {
 							idx={22}
 						/>
 					</h1>
-					<h2>Backend Dev / Python / JavaScript / C</h2>
+					<h2>Backend Dev / Python / Nodejs / C</h2>
 					<Link to='/contact' className='flat-buttom'>CONTACT ME</Link>
 				</div>
 				<Logo />
